@@ -1,0 +1,13 @@
+name = "ANGRY TITANS Christmas"
+author = "SCHLVFMVNGEL"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "be242a09425fad239245c88bf378ec186698ca9c39e812ef86663d70093e825b"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.17.5-beta.6"
