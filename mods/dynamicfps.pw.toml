@@ -1,6 +1,6 @@
 name = "Dynamic FPS"
 filename = "dynamic-fps-2.2.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/2.2.0/dynamic-fps-2.2.0.jar"
