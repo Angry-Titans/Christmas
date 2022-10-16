@@ -98,6 +98,11 @@ hash = "e7ad8b5d4e24423d08fd836446af256941e3bfc9017187b7a0b25b6e5a7c6611"
 metafile = true
 
 [[files]]
+file = "mods/accurate-maps.pw.toml"
+hash = "c98d4419b341bc57add0896ecae3df3d20d090ac79e6e9f586b23b9f38f7433a"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "03586e60a57ea47f8c0f67e6ae8e74c411a1e3787979f593530e9c8cb9f2a2ca"
 metafile = true
@@ -118,8 +123,33 @@ hash = "a848857985e7dfd249d3a7eb32a62e04b60edfb3d57a11fa8a49703065ef3e0a"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "d0f01ef27819f59c0a876173d68dcaacd45103ab592460efed3202d42338ead6"
+metafile = true
+
+[[files]]
+file = "mods/armor-statues.pw.toml"
+hash = "1dad749841c6e62e94f085af0f95e1d3bcdbc3eacc76478781c8476350864632"
+metafile = true
+
+[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "ef47789c5104275ec930da62adb76f39b68e4a889693ab0c53b98d028a73f7c2"
+metafile = true
+
+[[files]]
+file = "mods/auditory.pw.toml"
+hash = "d720b31b559900ef20f1aef96c0d78c2a85ec4061563276e460a5aa7dcf9c0ee"
+metafile = true
+
+[[files]]
+file = "mods/bclib.pw.toml"
+hash = "89d640287d4542e0000eb1949c90ba2ec9d7838cfaf31e6d7ab163a26b69d317"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "93279fd03ba10e7e8adb5553ef7ade1a49dbdb2290ad5a8dbd1d563b323e48e5"
 metafile = true
 
 [[files]]
@@ -128,8 +158,18 @@ hash = "8726b405675f372f8d57862f7095e2e7e818eb8f3a74f56daffda5508eca26ee"
 metafile = true
 
 [[files]]
+file = "mods/betterend.pw.toml"
+hash = "89e0efbb26403c8c00ae5a2191771199e62a23c0f71c7f63930ded0d5d542e06"
+metafile = true
+
+[[files]]
 file = "mods/bettermounthud.pw.toml"
 hash = "a26a337fce738a7bcb616ad11865b27076b615449516d982353f71d4e94297f7"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "ff963f31474efb987549e50b2fd701690d606d911f6b7b6819909da1325954ac"
 metafile = true
 
 [[files]]
@@ -158,6 +198,11 @@ hash = "23a34bdca62c09a1a065cbe767f8aca9e89fa75ebf2f5a687c4a65fcb256d2c9"
 metafile = true
 
 [[files]]
+file = "mods/cinderscapes.pw.toml"
+hash = "7c0166f3848a39d21c4963ec39ca70ef5e31de4835ddd9def3c81541f4f5a793"
+metafile = true
+
+[[files]]
 file = "mods/citresewn.pw.toml"
 hash = "ee1b4f6aa31f789dc845fa936be733bccf56714d90782ba574c8968cb89604d9"
 metafile = true
@@ -173,6 +218,11 @@ hash = "716ae4fd4d1d58db3b4b7a9dc2fb0d0df6ecf9c913e04869812a6a5d9a1d90bb"
 metafile = true
 
 [[files]]
+file = "mods/consistencyplus.pw.toml"
+hash = "df049077f4b79a249f332d0b4ab3ecef9bfc7752705e34b394757afdfcebb618"
+metafile = true
+
+[[files]]
 file = "mods/continents.pw.toml"
 hash = "a782ac56d81f0b96504defbc1f50cace6cf926c5131e73f593532b24d7ea8a56"
 metafile = true
@@ -184,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
-hash = "c7eccad65192d2a53d94454f187551b10cf8f6b07e17b48f4850cb31efe3a1c6"
+hash = "7fc62c82787e937928ca26a105cfa2123823268b3f3958f8ad96dbe3f8df6ea8"
 metafile = true
 
 [[files]]
@@ -243,6 +293,11 @@ hash = "cb7abda638c96f6b259fafe92c4ee94e4ba08126216adbfc646209147d6c5092"
 metafile = true
 
 [[files]]
+file = "mods/fastback.pw.toml"
+hash = "89249b743f95c0cb276000cdf4bb936f5b271744fba56f2a4838704815be58e0"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0e0c461da2cb8a1dabdf2b0efd2bf754ba96229cfaec364291dce5ba6499c47f"
 metafile = true
@@ -255,6 +310,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "e896cbda15d073204724b5beeaed6c39bfda7a8c2123c6f1a8768067118b48cd"
+metafile = true
+
+[[files]]
+file = "mods/frame-api.pw.toml"
+hash = "61f3f789be32d3e7146a562769188c8f7ef11c740f30ee7690808db04ad9e066"
 metafile = true
 
 [[files]]
@@ -383,8 +443,23 @@ hash = "35dfd476a644abffce8b0d1c0cd383a47fc4511bd4c709dbc46edfb74c19c606"
 metafile = true
 
 [[files]]
+file = "mods/numismatic-overhaul.pw.toml"
+hash = "50be5a3764ac6854c493510f9c125eff49f1f4120999751a522e0cab6fdd9a48"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "cbc992bd5c0a572dd4712f8eeef4fedd531cf4a1642876ab579039488dabfe8f"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "542bf57886a2714d641245a2cb033394feac17934a115922022a24ff269f42e2"
+metafile = true
+
+[[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "d52116b732b4275044539f2cae64c089e3fbe984b74143ad7a11ee0090fe4f5b"
 metafile = true
 
 [[files]]
@@ -400,6 +475,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "9407f9382fc0bb264f6fc99434ed1250e9168f4ab6c9c626b20841b00465aef2"
+metafile = true
+
+[[files]]
+file = "mods/qu-enchantments.pw.toml"
+hash = "9919bc2ff3d6975f05e364c5ac6d4fef97eb308c832a91ed3dbd2173bcc1b2c1"
 metafile = true
 
 [[files]]
@@ -460,6 +540,21 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "c3dd34570f724e782e2b4eae21a5990e4fa30d3daa43e0213e6bdcd72c37a72d"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "7986095d6f4e9726a3f56296399a358db898055b6d4a2ebd9de48afe629a019b"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "ef9c9e072e84554a193b504f960e3f69d56b239842c26f0b04e4570a22f3af8c"
+metafile = true
+
+[[files]]
+file = "mods/universal-bone-meal.pw.toml"
+hash = "e0ed630be30fb18b5665dabc3f15d49adafb2be4b67eba94a44860e1cb574f49"
 metafile = true
 
 [[files]]
