@@ -1,14 +1,14 @@
 name = "Armor Statues"
-filename = "ArmorStatues-v4.0.1-1.19.2-Fabric.jar"
+filename = "ArmorStatues-v4.0.2-1.19.2-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bbGCtEvb/versions/d9TIPZeE/ArmorStatues-v4.0.1-1.19.2-Fabric.jar"
+url = "https://cdn.modrinth.com/data/bbGCtEvb/versions/vQtohe4S/ArmorStatues-v4.0.2-1.19.2-Fabric.jar"
 hash-format = "sha1"
-hash = "e93e5fbb8f6adf6ecd9a07fcf4b487ac634f4499"
+hash = "27c024aa28ad35c1f79a44c5e4b28d6f9e541a03"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "bbGCtEvb"
-version = "d9TIPZeE"
+version = "vQtohe4S"

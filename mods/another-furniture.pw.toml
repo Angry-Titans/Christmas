@@ -1,13 +1,13 @@
 name = "Another Furniture"
-filename = "another_furniture-fabric-2.0.3-1.19.2.jar"
+filename = "another_furniture-fabric-2.1.2-1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "10745d6af96e29ff84d3a81e1fcfa03b0a57c02c"
+hash = "0553fdc5c990917f88637a7acb934843b6fd2cdf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3951939
+file-id = 4034011
 project-id = 610492
