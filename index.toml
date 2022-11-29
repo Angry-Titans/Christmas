@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bclib/client.json"
-hash = "5a4120e5dcc0230d9e4a31eb1db98a1289a7017685531df1fe30fd265da3ae62"
+hash = "b8bdbb44afc0a003a7065665c3b6d90bd29df1a8e787c519f3bc442b450d5f32"
 
 [[files]]
 file = "config/betternether/mobs.json"
