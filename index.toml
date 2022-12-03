@@ -120,6 +120,11 @@ hash = "ed50e14d5430370faf4b4495d7ee0001d2bbc6395bc4fd2bd33d7ded2bd6190f"
 metafile = true
 
 [[files]]
+file = "mods/adaptive-tooltips.pw.toml"
+hash = "518821de7eeed3e5f0775acfb72bad61b3d5c3881ba957e8acdc5a33bd3193e9"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "ebff869f894ddc0dc9fa07e17f225ffc7368bb9636e08dd7d0ca9140be15679d"
 metafile = true
@@ -220,6 +225,11 @@ hash = "e30e0985c41aef2f58d0a657228f87e0cd3bdea47da839307845a5984840006d"
 metafile = true
 
 [[files]]
+file = "mods/charm-fixer.pw.toml"
+hash = "fa2758ea5938a4153f19de7900e2c5903ce1360e29cc348b36e129383d04aa04"
+metafile = true
+
+[[files]]
 file = "mods/charmonium.pw.toml"
 hash = "23a34bdca62c09a1a065cbe767f8aca9e89fa75ebf2f5a687c4a65fcb256d2c9"
 metafile = true
@@ -251,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/continents.pw.toml"
-hash = "a782ac56d81f0b96504defbc1f50cace6cf926c5131e73f593532b24d7ea8a56"
+hash = "02c6ee9316793c834b8ef515327ab73c8f6d83aa8f817aa1509c7bb786b84557"
 metafile = true
 
 [[files]]
@@ -261,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "6b04a6b68536e924da2b9a90457b545e123aeb9844d40e12ec8567afe9aea0f9"
+hash = "74b96d0443ddde36cc24703ba7c3f541777d9f7f9f567dab1d7a493934d14d72"
 metafile = true
 
 [[files]]
@@ -302,6 +312,11 @@ metafile = true
 [[files]]
 file = "mods/equipment-compare-fabric.pw.toml"
 hash = "18f28c80b7127ca012c78dc23b881f94972ca0003f0913c0ee5e9dbe54d15c76"
+metafile = true
+
+[[files]]
+file = "mods/extractinator.pw.toml"
+hash = "e7e8536191419b163fc76c8a313df48a102d2b3fc19e5c016dd77a8b9f08c94a"
 metafile = true
 
 [[files]]
@@ -396,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/languagereload.pw.toml"
-hash = "d4945d237d3e22862105c54b2cfe24864550a08805326cd483d2a4a95995c206"
+hash = "af27397d05454af0c313a230ad4ceb26cfd365936cdd3dc22a23491a010fd62c"
 metafile = true
 
 [[files]]
@@ -506,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "0ce6586aaca37eda1726e320ef3c9c100b2cb9a8a1e0fd5191b3d3de4953eb58"
+hash = "2f8fe43974e7a1d3c13d5c51a0c6761533c39baca211710f108099f14ed5ec66"
 metafile = true
 
 [[files]]
@@ -516,12 +531,12 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "04eb5e4705a6f93db1e52b85885f06059efecdebbcf1e73fb9118fb8da4f4f5b"
+hash = "06375c964b2d19d765e844bfd0ac66c7ac1e68987bc6fac35e5e25f41ee06ed9"
 metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "bc483e34115472baa512c59943d121c05116ffbfeeae93b94ebd28d7d9bc5969"
+hash = "eb54fc3e5313b450d219fe4ccc4a7cf3e96e86baf372b607e4a46277975ef7b0"
 metafile = true
 
 [[files]]
@@ -536,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f27895432c3f0baa50c07d3a9786e387a5d3181394a5b4de4b403e9da1a53a3e"
+hash = "fdf1194a883528c3a9bfb9a6f5a447964d4c42de34a2501c4aa8e45a4b949bd8"
 metafile = true
 
 [[files]]
@@ -551,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "acc556600c6ead697d6333b99c609b7914e3f0d7320caec0332a05f5b1173f08"
+hash = "7e3a87d8fe40f54d83b0e4b9ddfbeea00ecbeb6b1439ec19d402f0fa07db61f5"
 metafile = true
 
 [[files]]
@@ -567,6 +582,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "7c42bb0fe982cf5004bfcb62690e9b433890ebd76ea94611fd91c68b00f386fe"
+metafile = true
+
+[[files]]
+file = "mods/stendhal.pw.toml"
+hash = "4999070d40ae32a2c21482801a18cc6026c7e781b189250d497bf10feaecf29c"
 metafile = true
 
 [[files]]
