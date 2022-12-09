@@ -120,11 +120,6 @@ hash = "ed50e14d5430370faf4b4495d7ee0001d2bbc6395bc4fd2bd33d7ded2bd6190f"
 metafile = true
 
 [[files]]
-file = "mods/adaptive-tooltips.pw.toml"
-hash = "518821de7eeed3e5f0775acfb72bad61b3d5c3881ba957e8acdc5a33bd3193e9"
-metafile = true
-
-[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "ebff869f894ddc0dc9fa07e17f225ffc7368bb9636e08dd7d0ca9140be15679d"
 metafile = true
@@ -222,11 +217,6 @@ metafile = true
 [[files]]
 file = "mods/cem.pw.toml"
 hash = "e30e0985c41aef2f58d0a657228f87e0cd3bdea47da839307845a5984840006d"
-metafile = true
-
-[[files]]
-file = "mods/charm-fixer.pw.toml"
-hash = "fa2758ea5938a4153f19de7900e2c5903ce1360e29cc348b36e129383d04aa04"
 metafile = true
 
 [[files]]
