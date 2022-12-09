@@ -1,0 +1,14 @@
+name = "Dungeon Difficulty"
+filename = "dungeon_difficulty-1.2.0+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ENZmbSFZ/versions/6IGX3RML/dungeon_difficulty-1.2.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "67b47053a8aee11fe4bdf94857b2ce54ba52ab03"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "ENZmbSFZ"
+version = "6IGX3RML"

@@ -275,6 +275,11 @@ hash = "eb246c5d757d318abe9cf302835e7c97d49e965716a621f2ba68de3abebd1926"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-difficulty.pw.toml"
+hash = "8fa8cf2afc89de2735b147a30212d4548d825342959c79300b90f8e2d5f6df18"
+metafile = true
+
+[[files]]
 file = "mods/dynamicfps.pw.toml"
 hash = "721d2fa5abae3a7527431da01f465ef895652ee7f766bb10d96d92f79771e6fb"
 metafile = true
@@ -502,6 +507,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "65ee890b4a4c58970a47fe3d9e53948fc3a06757c4df379645578df6eee661c7"
+metafile = true
+
+[[files]]
+file = "mods/projectile-damage-attribute.pw.toml"
+hash = "825ce7e72f710e231de2268b6efed5f5cd3b9bd5e10e2021c0f55fa994e46b1d"
 metafile = true
 
 [[files]]
