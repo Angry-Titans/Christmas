@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "843befdb83b131f5529d4071011d0755ba1af71fa9268fe5b31f5abd68bce2d3"
+hash = "59ee0418a1d4c381ecf800f66e92000c2d1ebdddb674687adadccc78ac5c4bda"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "f41a891750f5db24cd404ff403703973f68f2db8d7febaabd9c8f0af905ca9e4"
+hash = "b3c27050c906f1a4d9dd6cc217b3fe292c315a234cf0faffc3d9e9c95277e670"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "89da268e562aaaf62896cec373356662d115ca82404c2706dc05de5c1ccb7e28"
+hash = "c73a291fc5d38ab1d6e43d3cb0d9f888a352360f2ce3b7995a847005cc6ea921"
 metafile = true
 
 [[files]]
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "5ab8178c6148fcbd6035bf914c322da587b484aab56c7edc093cf9eea7fdab2f"
+hash = "c2902aa25d6c697cbb9dee1b3c038a415108f2f43e48d706ab25c0fb12cdba47"
 metafile = true
 
 [[files]]
@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight-fabric.pw.toml"
-hash = "cb7abda638c96f6b259fafe92c4ee94e4ba08126216adbfc646209147d6c5092"
+hash = "15eaa728f8d6638beffaf224b9abd38127ae182ee6623f91299e19758b6fe58c"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "d386226252b576d1d02e344ece70c7820c41b78bd075fea1022cb55123c39bfb"
+hash = "193b24669a821c71968cfeab49b9b0f4e3a3fd916cb038f300710190847b7d12"
 metafile = true
 
 [[files]]
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "8993016e2a014ed184a08ad44e9682319efe97410f4cad8347a406f3ce610901"
+hash = "8380bd95d7be9f26f2c55fdbe6ef487a7da23eef0d8c0820631d59ef8fbde959"
 metafile = true
 
 [[files]]
@@ -411,12 +411,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ea19999f2067b06d85a3b89059b44bb4b7b77a89cd9acd83d6271fbfaa80a881"
+hash = "78b1c39179434ac40ef4f831375cc874f9815a38ed14a7645e5788ec17293e3a"
 metafile = true
 
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
-hash = "2a53a57537b1e0cd973a4147ef80610a90533b788148d96f967335c43558104f"
+hash = "056d867e226a65d47a019541865ca85a2123979c042faa6f63f9d4d5efa8799b"
 metafile = true
 
 [[files]]
@@ -441,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "bf78603622047a3352117834c3c94e4c8ef45e82ffe8dd850b25bc761be3f532"
+hash = "279d606b10d7ec0b6b7c191965a0cdce3aa9f2f1589cec53e1990eb33632262c"
 metafile = true
 
 [[files]]
@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "0febc6ebc7a8f5e62bfafef71102d3ef73ffb613480ea02f9c82c8d10dcdc925"
+hash = "d4032db7e51e35e1592e07aeb9306e408c3ba8cff0699dced6a65cb463ee3202"
 metafile = true
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "2f8fe43974e7a1d3c13d5c51a0c6761533c39baca211710f108099f14ed5ec66"
+hash = "83f287436d1f09604da3da8dc4331348e1f7afe0e0441d0e8e34abd10d0df0be"
 metafile = true
 
 [[files]]
@@ -526,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "eb54fc3e5313b450d219fe4ccc4a7cf3e96e86baf372b607e4a46277975ef7b0"
+hash = "dcf3a0d4b2133c0213f2633d103062f3e426c2bc09bc204ecea7fb4b90916389"
 metafile = true
 
 [[files]]
@@ -536,12 +536,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "91413f23be33f30f6fecd49ef53ef03b0ab3b145fe0a92323d0effb4a49ddd82"
+hash = "1a75ab909f95a000853f8ae9c7ba4af0b0d7c65841abb29a8eb5970e823fd891"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "fdf1194a883528c3a9bfb9a6f5a447964d4c42de34a2501c4aa8e45a4b949bd8"
+hash = "ef73175e9059e4bc372ba69d1a5526cc4f01b85311462799fbee41bd42cc4427"
 metafile = true
 
 [[files]]
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "db6b8affea2bd00af88e12d4f7308f2546ee522a942f8d132f415e7e70b373c7"
+hash = "42b159eedc16220556fdd6220a82512e4b52e09a2e19ac2aa63f10f23e821da8"
 metafile = true
 
 [[files]]
@@ -636,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "fe58b2a31581ced2d7e00169c3f7a07a099d2f162e6b9f3169cf2532c2b85e29"
+hash = "112ea9796aba7de4ea71d9ba1369f9209efc87b541eaa0367875038994b67adc"
 metafile = true
 
 [[files]]
